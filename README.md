@@ -2,7 +2,7 @@
 
 A responsive React.js application for legal claim forms with modern UI design and mobile-first approach.
 
--Live URL: https://kaizen-assignment.vercel.app/
+- Live URL: https://kaizen-assignment.vercel.app/
 
 ##  Installation & Setup
 
